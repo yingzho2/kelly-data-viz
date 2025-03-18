@@ -24,7 +24,7 @@ Hi!  My name is Ying樱 Zhou周, but I go by Kelly. I am currently in my last se
 # Examples
 (Class exercises and my personal work will be updated here.)
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing overnment Debt](https://github.com/yingzho2/kelly-data-viz/blob/main/visualizing-government-debt.md)
 
 For more information, check out the [Visualizing Government Debt](https://github.com/yingzho2/kelly-data-viz/blob/main/visualizing-government-debt.md) page.
 
