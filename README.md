@@ -10,6 +10,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should hire me. 
 
+
 # About me
 Hi!  My name is Ying樱 Zhou周, but I go by Kelly. I am currently in my last semester at Carnegie Mellon University studying my master program in Data Analytics. Before coming to CMU, I have two years of experience in data-driven roles at ByteDance and Amazon, where I worked as a Customer Solutions Analyst and Project Manager. My expertise includes SQL, Python, and data visualization tools like Tableau, where I’ve helped optimize campaigns, analyze customer behavior, and improve business strategies. I'm passionate about using data to solve complex problems and drive impactful decision-making across operations and marketing.
 
@@ -30,8 +31,6 @@ Here is a picture of me at the Bryce Canyon Nation Park.
 After graduating, I’m excited to dive into a career in data analytics and marketing, where I can use data to tackle real-world business challenges and make informed decisions. I’m looking forward to working in an innovative, collaborative environment where I can apply my skills to help teams solve problems and drive growth. I’m passionate about continuing to learn and improve in this field, and I’m eager to contribute to projects that make a tangible impact. Ultimately, I hope to use my love for marketing technology and analytics to help organizations thrive and reach their full potential.
 
 # Portfolio
-
-# Examples
 (Class exercises and my personal work will be updated here.)
 
 ## Assignment: [Visualizing government Debt](https://github.com/yingzho2/kelly-data-viz/blob/main/visualizing-government-debt.md)
