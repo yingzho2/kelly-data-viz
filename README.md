@@ -13,6 +13,10 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 # About me
 Hi!  My name is Ying樱 Zhou周, but I go by Kelly. I am currently in my last semester at Carnegie Mellon University studying my master program in Data Analytics. Before coming to CMU, I have two years of experience in data-driven roles at ByteDance and Amazon, where I worked as a Customer Solutions Analyst and Project Manager. My expertise includes SQL, Python, and data visualization tools like Tableau, where I’ve helped optimize campaigns, analyze customer behavior, and improve business strategies. I'm passionate about using data to solve complex problems and drive impactful decision-making across operations and marketing.
 
+In my spare time, I love to travel, play golf, and any water sports(free diving, scuba diving, surfing and snorkeling). 
+
+![Here is a picture of me at the Bryce Canyon Nation Park](https://github.com/yingzho2/kelly-data-viz/blob/main/bryce.jpg)
+
 # What I hope to learn
 
 1. I want to learn how to compact as much information as possible into one visualization without distracting the audience from the main message.
