@@ -11,20 +11,24 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should hire me. 
 
 # About me
-Hi!  My name is Ying樱 Zhou周, but I go by Kelly. I am currently in my last semester at Carnegie Mellon University studying my master program in Data Analytics. 
+Hi!  My name is Ying樱 Zhou周, but I go by Kelly. I am currently in my last semester at Carnegie Mellon University studying my master program in Data Analytics. Before coming to CMU, I have two years of experience in data-driven roles at ByteDance and Amazon, where I worked as a Customer Solutions Analyst and Project Manager. My expertise includes SQL, Python, and data visualization tools like Tableau, where I’ve helped optimize campaigns, analyze customer behavior, and improve business strategies. I'm passionate about using data to solve complex problems and drive impactful decision-making across operations and marketing.
 
 # What I hope to learn
 
-1. I want to learn how to compact as much information into one visualization as possible, but without distracting the audience from the main message.
-2. I want to know when to use pie chart
-3. I want to learn from my classmates on their experience of visualization because some of them are very artsy.
+1. I want to learn how to compact as much information as possible into one visualization without distracting the audience from the main message.
+2. I want to understand when to use a pie chart effectively.
+3. I hope to learn from my classmates' experiences with visualization, as some of them have a very artistic approach.
 
 # Portfolio
 
 # Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+(Class exercises and my personal work will be updated here.)
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+
+For more information, check out the [Visualizing Government Debt](visualizing-government-debt) page.
+
+
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
