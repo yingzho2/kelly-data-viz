@@ -26,7 +26,7 @@ Hi!  My name is Ying樱 Zhou周, but I go by Kelly. I am currently in my last se
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 
-For more information, check out the [Visualizing Government Debt](visualizing-government-debt) page.
+For more information, check out the [Visualizing Government Debt]([visualizing-government-debt](https://github.com/yingzho2/kelly-data-viz/blob/main/visualizing-government-debt.md)) page.
 
 
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
