@@ -15,7 +15,7 @@ Hi!  My name is Ying樱 Zhou周, but I go by Kelly. I am currently in my last se
 
 In my spare time, I love to travel, play golf, and any water sports(free diving, scuba diving, surfing and snorkeling). 
 
-![Here is a picture of me at the Bryce Canyon Nation Park](https://github.com/yingzho2/kelly-data-viz/blob/main/bryce.jpg)
+![Here is a picture of me at the Bryce Canyon Nation Park]
 <img src="bryce.jpg" width="200"/>
 
 # What I hope to learn
