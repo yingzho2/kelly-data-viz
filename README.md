@@ -19,12 +19,16 @@ Hi!  My name is Ying樱 Zhou周, but I go by Kelly. I am currently in my last se
 2. I want to understand when to use a pie chart effectively.
 3. I hope to learn from my classmates' experiences with visualization, as some of them have a very artistic approach.
 
+#  What I want to do after graduating
+
+After graduating, I’m excited to dive into a career in data analytics and marketing, where I can use data to tackle real-world business challenges and make informed decisions. I’m looking forward to working in an innovative, collaborative environment where I can apply my skills to help teams solve problems and drive growth. I’m passionate about continuing to learn and improve in this field, and I’m eager to contribute to projects that make a tangible impact. Ultimately, I hope to use my love for marketing technology and analytics to help organizations thrive and reach their full potential.
+
 # Portfolio
 
 # Examples
 (Class exercises and my personal work will be updated here.)
 
-## Assignment: [Visualizing overnment Debt](https://github.com/yingzho2/kelly-data-viz/blob/main/visualizing-government-debt.md)
+## Assignment: [Visualizing government Debt](https://github.com/yingzho2/kelly-data-viz/blob/main/visualizing-government-debt.md)
 
 For more information, check out the [Visualizing Government Debt](https://github.com/yingzho2/kelly-data-viz/blob/main/visualizing-government-debt.md) page.
 
