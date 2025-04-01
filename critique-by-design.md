@@ -98,7 +98,7 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Originally, I was planning to include as much information as possible in my chart—for example, using dynamic colors, numbers, and logos. However, through conducting the interview, I realized that “less is more.” The purpose of a visualization isn’t to include as much data as possible, but rather to present it in a clear and non-distracting way. Ideally, we want to convey a single message that aligns with the story or title of the graph. Making too many changes can distract the viewer and mislead the intended direction.
 
 ## Step five: build the solution
 
@@ -108,5 +108,5 @@ _Include and describe your final solution here. It's also a good idea to summari
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used AI for grammar correction, and for bettwe flows in my wordings.
 
