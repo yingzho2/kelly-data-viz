@@ -68,24 +68,19 @@ Include a benchmark: Add an average line for context and callout highlights (e.g
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
 Questions to ask (modify these for your own interviews): 
 
 - Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
 
 - Is there anything you find surprising or confusing?
 
 - Who do you think is the intended audience for this?
 
-- Is there anything you would change or do differently?
+- Is there anything you think is good?
+
+- Is there anything you think I should change?
 
 Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
