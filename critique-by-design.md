@@ -89,9 +89,12 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|    Can you tell me what you think this is?      |             |             |
-|          |             |             |
-|          |             |             |
+|    Can you tell me what you think this is?      |      Safety rank for different car brands?       |       Same      |
+|    Is there anything you find surprising or confusing?      |      Is lowerscore representing bettwe?       |      What kind of problem is included?      |
+|    Who do you think is the intended audience for this?      |      People who wants to buy a car       |      Market Research Analyst       |
+|    Is there anything you think is good?      |      I like the mark of average line       |      Color dynamic is good       |
+|    Is there anything you think I should change?      |      Maybe just two colors? Above average and below average?       |      *      |
+
 
 Synthesis: 
 
