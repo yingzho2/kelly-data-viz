@@ -1,12 +1,9 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Title
-Text here...
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
-
+HW3 - critique by design
+ 
 ## Step one: the visualization
 
 The data visualization I picked is 
@@ -99,8 +96,15 @@ Originally, I was planning to include as much information as possible in my char
 
 <div class='tableauPlaceholder' id='viz1743562959009' style='position: relative'><noscript><a href='#'><img alt='Lexus is the most reliable car brands in the U.S.Measured by &quot;Problems per 100 vehicles&quot;, including mechanical, tech, and warranty-related issues.Source: J.D. Power’s 2024 U.S. Vehicle Dependability Study ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;da&#47;dataviz_HW3_final&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='dataviz_HW3_final&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;da&#47;dataviz_HW3_final&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 
+I made the following changes from my original design:
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+Exact Data Labels:
+In the second chart, I include the exact number (like “135” for Lexus) for min and max, the original design had every number labeled which I think is uncessary and distracting, but by adding the min and max, it saves reader from guessing or eyeballing the values from the bars. That little addition makes the data much easier to interpret at a glance.
+
+Color Coding Is More Effective:
+In the first image, I think the gradient feels subtle and not that intuitive after discussing with my teammates. In the second one, the red-to-green color scale is sharper and more visually distinct. It immediately shows readers what’s good (green) and what’s bad (red), and the neutral grey for mid-tier brands. It will guide reader's eyes through the ranking.
+
+Overall, from the very original chart, I changed the title to make it more focus on the conclusion draw from the data; I change the layout to make everything vertical in one column; change the color to make it indicative on good and bad; change the legend to highlight what metric is used here; adding assisting markups(average score, scale, etc.) that improves the overall visual of this design. 
 
 ## References
 n/a
