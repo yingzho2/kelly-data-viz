@@ -100,7 +100,7 @@ Originally, I was planning to include as much information as possible in my char
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-_List any references you used here._
+n/a
 
 ## AI acknowledgements
 I used AI for grammar correction, and for bettwe flows in my wordings.
