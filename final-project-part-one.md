@@ -6,7 +6,9 @@
 # Outline
 > Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
-Text here...
+We often focus on the companies where we want to work—their core values, work ethics, and job opportunities—yet rarely do we think about the people at the very top: the billionaires who own or have built these enterprises. This project stemmed from our curiosity to understand the common factors that define these individuals. The potential value in exploring this dataset is multifold. First, it offers a different perspective on career aspirations. Rather than solely focusing on company dynamics, we get to examine the traits of individuals who lead these businesses. Second, it reveals trends across industries, countries, and sources of wealth, which could inspire both entrepreneurial spirit and career direction. What makes this particularly meaningful is its real-world relevance; we can apply the insights gained to better prepare for interviews and career choices. Understanding billionaires’ backgrounds can help us recognize how different circumstances—whether through age, gender, geographic location, or industry choice—play pivotal roles in their wealth accumulation. We hope to uncover trends or outliers that can demystify the "billionaire blueprint". Ultimately, this project could serve as a point of pride during job interviews, as it blends our curiosity, analytical skills, and understanding of real-world economic forces.
+
+Our interest in this project arose from a shared desire to achieve financial success and curiosity about what factors contribute to becoming a billionaire. While hearing stories of Elon Musk or Jeff Bezos sparked discussions about wealth, we wanted to dig deeper to uncover patterns behind their success. This dataset offered the perfect opportunity to explore if there’s a "billionaire blueprint" based on factors like industry, demography, or geography.
 
 > A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
 
@@ -26,7 +28,7 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
+|  Forbes Billionaires Evolution (1997-2024)    |  https://www.kaggle.com/datasets/guillemservera/forbes-billionaires-1997-2023   |      The "Forbes Billionaires Evolution" dataset provides a comprehensive examination of the financial growth and status of global billionaires from 1997 to 2024. It meticulously chronicles the transformations, both subtle and substantial, in the fortunes of these financial titans over nearly three decades.       |
 |      |     |             |
 |      |     |             |
 
@@ -36,7 +38,7 @@ Text here...
 Text here...
 
 ## References
-_List any references you used here._
+https://www.kaggle.com/datasets/guillemservera/forbes-billionaires-1997-2023
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
