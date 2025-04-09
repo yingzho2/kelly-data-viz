@@ -20,6 +20,8 @@ The project is designed with the following user stories in mind. As a job seeker
 
 ## Initial sketches
 
+![sketch](project_draft.jpg)
+
 
 # The data
 
