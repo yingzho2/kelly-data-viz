@@ -4,7 +4,6 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
  
 I often focus on the companies where I want to work—their core values, work ethics, and job opportunities—yet rarely do I think about the people at the very top: the billionaires who own or have built these enterprises. This project stemmed from my curiosity to understand the common factors that define these individuals. The potential value in exploring this dataset is multifold. First, it offers a different perspective on career aspirations. Rather than solely focusing on company dynamics, I get to examine the traits of individuals who lead these businesses. Second, it reveals trends across industries, countries, and sources of wealth, which could inspire both entrepreneurial spirit and career direction. What makes this particularly meaningful is its real-world relevance; I can apply the insights gained to better prepare for interviews and career choices. Understanding billionaires’ backgrounds can help me recognize how different circumstances—whether through age, gender, geographic location, or industry choice—play pivotal roles in wealth accumulation. I hope to uncover trends or outliers that can demystify the "billionaire blueprint." Ultimately, this project could serve as a point of pride during job interviews, as it blends my curiosity, analytical skills, and understanding of real-world economic forces.
 
@@ -36,4 +35,4 @@ To complete my final project, I plan to primarily use Tableau for data visualiza
 https://www.kaggle.com/datasets/guillemservera/forbes-billionaires-1997-2023
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Using AI for grammar check and better flows in paragraphs
