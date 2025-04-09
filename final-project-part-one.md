@@ -20,8 +20,7 @@ The project is designed with the following user stories in mind. As a job seeker
 
 ## Initial sketches
 
-![sketch](project_draft.jpg)
-
+<img src="project_draft.jpg" style="transform: rotate(90deg); width: 300px;">
 
 # The data
 
