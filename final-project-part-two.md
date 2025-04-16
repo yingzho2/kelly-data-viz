@@ -10,7 +10,17 @@ Text here!
 ## Target audience
 > Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+To identify my target audience, I asked myself three guiding questions:
+
+1. Who is directly affected by the shift in marketing trends?
+2. Who isn't aware of the shift, but could benefit from understanding it?
+3. Who stands to profit by adapting early to this change?
+
+Based on that, I’ve identified three key audience groups for my story:
+
+1. Marketing professionals – Brand managers, media planners, and CMOs who are actively shaping campaign strategy and media investments.
+2. Advertising students & educators – Individuals studying marketing and communications who need to understand both traditional and digital media landscapes for academic and career success.
+3. Business decision-makers – Especially those in industries like CPG, retail, or entertainment, where advertising spend is a key lever for growth and customer engagement.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
@@ -19,24 +29,24 @@ Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|  What's the current perception of traditional vs. digital ads    |    “When was the last time you were genuinely influenced by a TV or print ad?”              |
+|  Understand current media strategy(can't conduct question in class, answers come from online research/interviews)    |     “In your experience, are traditional marketing channels still part of your media mix? If so, when and why?”            |
+|  Explore trust and engagement	    |       “Do you personally find ads on TV/radio more or less trustworthy than digital ones? Why?”            |
+|  Assess learning or expectations		    |       “As a student/marketer, what did you expect about traditional media that turned out to be different?”            |
+|  Compare attention across platforms	    |       “Do you pay more attention to a TV ad, a YouTube pre-roll, or an Instagram Story ad? Why?”            |
 
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Marekting Major grad student | Brand strategist for big retail company | Media buyer at an advertising agency |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+| “When was the last time you were genuinely influenced by a TV or print ad?” | I don't remember honestly... The last TV ads I saw would prolly be Superbowl ads?|I still watch TV so I see those ads, but I don't think I am consiously getting affected by them. Or at least I don't think so.| Maybe a while ago, I scanned a QR code about a product? |
+| “In your experience, are traditional marketing channels still part of your media mix? If so, when and why?”|not applicable|             |             |
+| “Do you personally find ads on TV/radio more or less trustworthy than digital ones? Why?” | Hard to say, I get tired of seeing all instagram ads and social media platform adds, but I am more unaware of the tv ads' impact on me. | The brands that are advertising on TV are usually bigger brands, more well-known, so they already have a base of loyal consumers/target audience. | Digital ones are having higher conversion rates for sure, because they are more targetd, and it's easier to grab attention and cause for processing actions            |
+| “As a student/marketer, what did you expect about traditional media that turned out to be different?” | Is netflix ads a part of traditional media? If so, then traditional media isn't completely traditional media anymore, it has became a combination of both digital and offline? |  |
+|“Do you pay more attention to a TV ad, a YouTube pre-roll, or an Instagram Story ad? Why?”|  |  |
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
