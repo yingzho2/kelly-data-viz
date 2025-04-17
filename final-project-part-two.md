@@ -1,9 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
-
-Text here!
+https://preview.shorthand.com/mK8C7FwFDrTTVEAH
 
 # User research 
 
@@ -45,7 +43,7 @@ Text here!
 | “When was the last time you were genuinely influenced by a TV or print ad?” | I don't remember honestly... The last TV ads I saw would prolly be Superbowl ads?|I still watch TV so I see those ads, but I don't think I am consiously getting affected by them. Or at least I don't think so.| Maybe a while ago, I scanned a QR code about a product? | Last election new administration |
 | “In your experience, are traditional marketing channels still part of your media mix? If so, when and why?”|   not applicable    |     Yes, but we are spendig a lot more on social media/digital platforms        |      Digital is definitely dominating the media mix.      |     Many companies are over-investing in digital marketing, leading to a renewed interest in the concept of "phygital"—blending physical and digital experiences. There's growing potential in utilizing traditional marketing more effectively, especially through linear content and offline channels that complement digital efforts.     |
 | “Do you personally find ads on TV/radio more or less trustworthy than digital ones? Why?” | Hard to say, I get tired of seeing all instagram ads and social media platform adds, but I am more unaware of the tv ads' impact on me. | The brands that are advertising on TV are usually bigger brands, more well-known, so they already have a base of loyal consumers/target audience. | Digital ones are having higher conversion rates for sure, because they are more targetd, and it's easier to grab attention and cause for processing actions            |   TV and digital marketing appeal to me in different ways. TV serves more as a reminder of certain topics or themes, helping build general awareness, but it often blurs specific brand identities. |
-| “As a student/marketer, what did you expect about traditional media that turned out to be different?” | Is netflix ads a part of traditional media? If so, then traditional media isn't completely traditional media anymore, it has became a combination of both digital and offline? | xxx | xxx | Traditional ads function more as broad broadcasts—they don’t offer hyper-targeting and often deliver general information. While placing an ad on a physical medium isn’t inherently innovative, the real creativity lies in finding the right context and audience. Even in a less controllable physical space, effective placement can make a significant impact. |
+| “As a student/marketer, what did you expect about traditional media that turned out to be different?” | Is netflix ads a part of traditional media? If so, then traditional media isn't completely traditional media anymore, it has became a combination of both digital and offline? | As a student, I used to think traditional media was outdated—too broad, too hard to measure, and not relevant for today’s fast-paced marketing needs. But working in the industry, I realized traditional channels like TV or even print can be extremely powerful when used strategically. They’re not meant to drive instant clicks like digital ads. Instead, they create cultural moments, emotional resonance, and broad awareness that digital alone can’t always achieve. What surprised me most is how often traditional media becomes the ‘anchor’ for a campaign, with digital built around it. | What surprised me is that traditional media isn’t dead—it’s just different. It plays a bigger role in top-of-funnel brand building, while digital handles targeting and conversion. | Traditional ads function more as broad broadcasts—they don’t offer hyper-targeting and often deliver general information. While placing an ad on a physical medium isn’t inherently innovative, the real creativity lies in finding the right context and audience. Even in a less controllable physical space, effective placement can make a significant impact. |
 |“Do you pay more attention to a TV ad, a YouTube pre-roll, or an Instagram Story ad? Why?”| instagram ads, because it's something I am prolly very interested in. | Instagram ads, attractive, appealing and very subtle | Maybe instagram? That's what I am more focus on for work  | I pay the most attention to YouTube pre-roll ads—mainly up to the point where I can skip them. They often get straight to the point and sometimes serve as helpful reminders, like during tax season. I tend to ignore Instagram Story ads completely becasuse I don't follow brands or account that is not personal friends/family. |
 
 # Identified changes for Part III
@@ -61,18 +59,11 @@ Text here!
 |Lines between digital and traditional are increasingly blurry: Platforms like Netflix and YouTube are challenging what qualifies as “traditional” vs. “digital,” leading to a hybrid media ecosystem.| Find more evidence of private/public coorporations adopting "phygital" strategies for their marketing strategy | "Is Netflix a part of traditional media? If so, then traditional media isn’t completely traditional anymore." |
 
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
-
 ## References
-_List any references you used here._
+https://elevate-digital-solutions.com/youtube-pre-roll-ads/#:~:text=YouTube%20Pre%2DRoll%20Ads%20(also,the%20channel%20has%20monetisation%20enabled).
+https://systemizedmedia.com/digital-vs-traditional-marketing-which-one-is-best-for-home-service-business/
+https://hbr.org/2022/04/why-marketers-are-returning-to-traditional-advertising
+https://www.statista.com/statistics/237803/global-tv-advertising-revenue/?utm_source=chatgpt.com
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I used Chatgpt to organize my interview answers into readable sentences, as well as checking grammars.
