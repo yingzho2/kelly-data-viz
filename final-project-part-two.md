@@ -67,3 +67,4 @@ https://www.statista.com/statistics/237803/global-tv-advertising-revenue/?utm_so
 
 ## AI acknowledgements
 I used Chatgpt to organize my interview answers into readable sentences, as well as checking grammars.
+I used Cgargpt to generate one image that I use at the end of the storyboard(handshake picture)
